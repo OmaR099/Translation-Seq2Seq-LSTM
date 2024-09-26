@@ -14,7 +14,6 @@ This repository contains a sequence-to-sequence (Seq2Seq) model built using Long
 - [Results](#results)  
 - [Usage](#usage)  
 - [Contributing](#contributing)  
-- [License](#license)  
 - [Acknowledgements](#acknowledgements)  
 
 ## Dataset  
@@ -27,6 +26,8 @@ The dataset used for training consists of:
 - **Max sequence length for outputs**: 53  
 
 The dataset includes paired sentences in English and Arabic, allowing the model to learn the mapping between the two languages.  
+
+<img src="https://github.com/user-attachments/assets/124da8d3-5c47-4e42-a57d-3f4926a0de7a" alt="image" width="300" height="300" />
 
 ## Preprocessing  
 
@@ -68,10 +69,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (git commit -m 'Add new feature').
 4. Push to the branch (git push origin feature-branch).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
