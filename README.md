@@ -27,7 +27,7 @@ The dataset used for training consists of:
 
 The dataset includes paired sentences in English and Arabic, allowing the model to learn the mapping between the two languages.  
 
-<img src="https://github.com/user-attachments/assets/124da8d3-5c47-4e42-a57d-3f4926a0de7a" alt="image" width="300" height="300" />
+<img src="https://github.com/user-attachments/assets/124da8d3-5c47-4e42-a57d-3f4926a0de7a" alt="image" width="980" height="260" />
 
 ## Preprocessing  
 
